@@ -1,5 +1,14 @@
 .h {
-    colour:black;
-    font-size: 24px;
+    color:black;
+    font-size: 82px;
     font-style: normal;
+}
+.p1 {
+    color:green;
+}
+.p4 {
+    font-size: larger;
+}
+.img {
+    float: right;
 }
