@@ -1,11 +1,11 @@
-.h2 {
+#bil {
     color:blue;
+    font-style: inherit;
 }
 
 .img {
     float:right;
 }
-.h2 {
-    color: green;
-    font-style: inherit;
+.bit{
+    color:lightseagreen;
 }
