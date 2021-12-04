@@ -5,4 +5,7 @@
 .img {
     float:right;
 }
-
+.h2 {
+    color: green;
+    font-style: inherit;
+}
