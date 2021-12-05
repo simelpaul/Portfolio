@@ -1,17 +1,21 @@
-#bil {
-    color:blue;
-    font-style: inherit;
+body {
+    background-image:url("images/pankaj-patel-eygpU6KfOBk-unsplash.jpg");
+    color: "to right #0f0c29 to right #302b63 to right #24243e"
 }
-
-.img {
-    float:right;
+.aboutme {
+    color:blueviolet;
+    place-content: center;
 }
-.bit{
-    color:lightseagreen;
+.hod {
+    box-sizing: border-box;
 }
-.body {
-    background-color: midnightblue;
+.bil {
+    color:brown;
+    align-content: center;
+    font-size: 82px;
 }
-.important {
-
+.bel {
+    border-style: solid;
+    border-color: coral;
+    
 }
