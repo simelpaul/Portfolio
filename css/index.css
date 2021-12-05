@@ -26,18 +26,11 @@ body {
     background-position: center ;
     background-attachment:fixed;
     background-color: mediumpurple;
+    font-size: 27px;
 }
-.study {
-    background-color: 
-    background-image: url ("images/page.jpeg");
-    text-decoration-color: cyan ;
-    text-emphasis-position:inherit ;
-}
+
 .hobbies {
     text-align:left ;
     text-decoration: mediumvioletred;
-    background-image: url("/images/20200919153539_IMG_0652.JPG");
-}
-.im {
-    text-align: center;
+    font-style:italic;
 }
