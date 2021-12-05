@@ -1,21 +1,43 @@
 body {
-    background-image:url("images/pankaj-patel-eygpU6KfOBk-unsplash.jpg");
-    color: "to right #0f0c29 to right #302b63 to right #24243e"
+    font-style: calc() ;
 }
 .aboutme {
-    color:blueviolet;
-    place-content: center;
+    color:jungle rgb(11, 39, 11);
+    text-align: center ;
 }
 .hod {
     box-sizing: border-box;
+    text-align: center;
 }
 .bil {
     color:brown;
-    align-content: center;
-    font-size: 82px;
+    align-items: center;
+    font-size: 41px;
+    text-align: center;
 }
 .bel {
-    border-style: solid;
-    border-color: coral;
-    
+    border-style:hidden;
+    border-color: indigo;
+    background-attachment: fixed;
+    text-decoration-style: double;
+    text-align: justify;
+}
+#page {
+    background-position: center ;
+    background-attachment:fixed;
+    background-color: mediumpurple;
+}
+.study {
+    background-color: 
+    background-image: url ("images/page.jpeg");
+    text-decoration-color: cyan ;
+    text-emphasis-position:inherit ;
+}
+.hobbies {
+    text-align:left ;
+    text-decoration: mediumvioletred;
+    background-image: url("/images/20200919153539_IMG_0652.JPG");
+}
+.im {
+    text-align: center;
 }
