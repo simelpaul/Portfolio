@@ -23,14 +23,22 @@ body {
     text-align: justify;
 }
 #page {
+    background-image: url(/images/20200919153539_IMG_0652.JPG);
+    height: 100%;
+    width: 100%;
     background-position: center ;
     background-attachment:fixed;
     background-color: mediumpurple;
-    font-size: 27px;
+    font-size: 20px;
 }
 
 .hobbies {
-    text-align:left ;
-    text-decoration: mediumvioletred;
+    align-content:stretch;
+    padding: 15%;
+    text-align:center;
     font-style:italic;
+}
+.img {
+    height: 15%;
+    width: 80%;
 }
