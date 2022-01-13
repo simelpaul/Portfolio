@@ -1,4 +1,5 @@
 body {
+    text-align: center;
     font-style: calc() ;
 }
 .aboutme {
@@ -15,25 +16,19 @@ body {
     font-size: 41px;
     text-align: center;
 }
-.bel {
-    border-style:hidden;
-    border-color: indigo;
-    background-attachment: fixed;
-    text-decoration-style: double;
-    text-align: justify;
-}
+
 #page {
     background-image: url(/images/20200919153539_IMG_0652.JPG);
     height: 100%;
     width: 100%;
-    background-position: center ;
+    background-position:inherit;
     background-attachment:fixed;
     background-color: mediumpurple;
     font-size: 20px;
 }
 
 .hobbies {
-    align-content:stretch;
+    align-content:space-between;
     padding: 15%;
     text-align:center;
     font-style:italic;
@@ -41,4 +36,7 @@ body {
 .img {
     height: 15%;
     width: 80%;
+}
+.pic{
+    align-content: center;
 }
